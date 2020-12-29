@@ -20,7 +20,7 @@ public class SpiralArray{
                if(counter >= total) {
                    break;
                }
-               System.out.println("Value is " + sa[yPosition][xPosition]);
+               System.out.println("Value is  " + sa[yPosition][xPosition]);
                counter++;
            }
            xPosition--;
